@@ -123,7 +123,7 @@ var sand = function (p) {
     };
 
     p.windowResized = function () {
-        let container = p.select('#data');
+        let container = p.select('#cursoreffect');
         let width = container.size().width;
         let height = container.size().height;
         p.resizeCanvas(width, height);

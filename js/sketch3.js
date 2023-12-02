@@ -59,7 +59,7 @@ new p5(function (p) {
       }
   
     p.windowResized = function() {
-      let container = p.select('#animation');
+      let container = p.select('#generation');
       let width = container.width;
       let height = container.height;
       p.resizeCanvas(width, height);
