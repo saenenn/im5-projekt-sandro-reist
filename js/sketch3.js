@@ -55,7 +55,6 @@ new p5(function (p) {
     
   
     p.mousePressed = function() {
-        p.redraw();
         p.clear();
       }
   
