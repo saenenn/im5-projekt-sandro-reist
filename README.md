@@ -209,3 +209,5 @@ Ausserdem hat mir ChatGPT dabei geholfen Beispielarbeiten aus dem Web zu versteh
 ### Github Copilot
 Den Github Copilot konnte ich aufgrund der Registrierung leider erst am zweitletzten Tag ausprobieren. Ich habe einige Tests damit gemacht und mir z.B. Code erklären lassen mithilfe der Kommentarfunktion für Fragen "// q: Hier kommt die Frage".
 
+### Code Validation 
+Um meinen Code zu validieren habe ich folgendes Tool genutzt. [Code Validation](https://validator.w3.org/)

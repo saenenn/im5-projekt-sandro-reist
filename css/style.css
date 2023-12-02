@@ -112,7 +112,6 @@ main {
     align-items: stretch;
 }
 
-/* Section Styles */
 section {
     display: flex;
     flex-direction: column;
@@ -130,15 +129,15 @@ section {
 /********************************************/
 
 .animation-section {
-    background-color: #212121; /* Red color */
+    background-color: #212121; 
 }
 
 .data-section {
-    background-color: #ededed; /* Blue color */
+    background-color: #ededed; 
 }
 
 .play-section {
-    background-color: #212121; /* Green color */
+    background-color: #212121; 
 }
 
 .inner-container {
