@@ -130,11 +130,11 @@ section {
 /********************************************/
 
 .animation-section {
-    background-color: #ededed; /* Red color */
+    background-color: #212121; /* Red color */
 }
 
 .data-section {
-    background-color: #57a2f7; /* Blue color */
+    background-color: #ededed; /* Blue color */
 }
 
 .play-section {
