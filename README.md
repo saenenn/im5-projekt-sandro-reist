@@ -6,6 +6,10 @@ Thema: Creative Coding mit JavaScript Library p5.js
 Interaktive Medien 5
 Dezember 2023
 
+<span style="color: red;">Hinweis: Da ich nur mit HTML, CSS und JavaScript gearbeitet habe, nutze ich keinen Webserver.
+Bittet laden Sie sich von Github die Datei-Struktur auf ihren Rechner und rufen Sie die index.html Datei
+in ihrem Browser auf.</span>
+
 
 ## Projektidee
 Da ich zu Beginn der ersten IM5 Projektwoche noch kein Bachelor-Thema habe, in IM5 aber vorwärts machen möchte, habe ich mich für dafür entschieden mich mit Creative Coding mit JavaScript auseinander zu setzen. Ich erstelle eine kleine digitale Gallerie, in welcher meine ersten Creative Coding Versuche darstelle.
