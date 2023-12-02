@@ -7,7 +7,7 @@ new p5(function (p) {
   // lerpFactor 0,1 heisst, dass die interpolierende Farbe nache an der ersten Farbe ist.
   // lerpFactor 0,5 heisst, dass die interpolierende Farbe genau in der Mitte zwischen den beiden Farben ist.
   // lerpfactor 0,9 heisst, dass die interpolierende Farbe genau an der zweiten Farbe ist.
-  let lerpFactor = 0.5;
+  let lerpFactor = 0;
   let changeSpeed = 0.01; // Geschwindigkeit der Farbänderung
 
 
